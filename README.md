@@ -1,0 +1,2 @@
+# CPYYModel
+implement YYModel
